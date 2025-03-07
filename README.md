@@ -9,7 +9,7 @@ Currently, this repository contains **data cleaning** scripts (layoffs_staging_p
 
 ## Dataset Details
 * Raw Dataset: [data/layoffs.csv](data/layoffs.csv)
-* Data Cleaning Script: [scripts/layoffs_staging_phase1.sql](scripts/layoffs_staging_phase1.sql)
+* Data Cleaning Script: [scripts/layoffs_staging_phase1.sql](scripts/layoffs_staging_phase_1.sql)
 * Description: The dataset contains company layoffs across industries and countries.
 * Format: CSV (Comma Separated Values)
 * Google Documentation: [View Here](https://docs.google.com/document/d/13mHpJzuJylJ9X909F7GmN8Fgl_uKqgYVHar-kHUMkNw/edit?usp=sharing)
