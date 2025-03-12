@@ -10,12 +10,13 @@ Currently, this repository contains **data cleaning** scripts (layoffs_staging_p
 ## Dataset Details
 * Raw Dataset: [data/layoffs.csv](data/layoffs.csv)
 * Data Cleaning Script: [scripts/layoffs_staging_phase_1.sql](scripts/layoffs_staging_phase_1.sql)
+* Exploratory Data Analysis: [scripts/layoffs_staging_phase_2.sql](scripts/layoffs_staging_phase_2.sql)
 * Description: The dataset contains company layoffs across industries and countries.
 * Format: CSV (Comma Separated Values)
 * Google Documentation: [View Here](https://docs.google.com/document/d/13mHpJzuJylJ9X909F7GmN8Fgl_uKqgYVHar-kHUMkNw/edit?usp=sharing)
 
 ## How to Use
 * Upload layoffs.csv into MySQL using the Import Wizard
-* You can follow the steps within the Google Doc provided or...
+* You can follow the steps within the Google Doc provided (EDA Process needed to be added in doc) or...
 * You can use the **data cleaning** scripts (layoffs_staging_phase1)
-* Once the EDA is ready, you can run **Exploratory Data Analysis** scripts (layoffs_staging_phase2) (to be added) for insights
+* You can use **Exploratory Data Analysis** scripts (layoffs_staging_phase2) for insights
