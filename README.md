@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on analyzing global layoffs using MySQL. The goal is to clean, transform, and analyze layoff data from various companies, locations, industries, total laid off, percentage laid off, date, the company's stage (e.g. Post-IPO), countries, and funds raised for each company to uncover key trends and insights.
 
-Currently, this repository contains **data cleaning** scripts (layoffs_staging_phase1), with **exploratory data analysis (EDA)** to be added later.
+Currently, this repository contains **data cleaning** scripts (layoffs_staging_phase1), and **exploratory data analysis (EDA)**.
 
 ## 📂 Project Structure
 
